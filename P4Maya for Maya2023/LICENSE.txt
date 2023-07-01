@@ -1,3 +1,0 @@
-The contents of the 'TOOL' folder (excluding the contents of the 'icons' folder) fall under the Creative Commons CC BY-SA license.
-
-The contents of the 'P4' folder are Copyright (c) 2023, Perforce Software, Inc. All rights reserved.
