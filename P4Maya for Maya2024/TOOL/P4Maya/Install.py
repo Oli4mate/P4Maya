@@ -107,7 +107,7 @@ P4.SettingMenu()""",
     import P4Maya.P4Commands as P4Maya
     P4Maya.SettingMenu()
 
-    shelfpath = os.getenv("MAYA_APP_DIR") + "/2023/prefs/shelves/shelf_P4Maya"
+    shelfpath = os.path.join(os.getenv("MAYA_APP_DIR"), cmds.about(version = 1), "prefs/shelves/shelf_P4Maya")
     cmds.saveShelf(shelf,shelfpath)
 
     print("P4Maya installed!")
