@@ -41,6 +41,11 @@ I.run()
 <br><br>
 
 **<h3>Version History</h3>**
+***September 13th 2023 - Beta 0.2***
+* 2024 version of the tool released!
+* 2024 compatible version is uploaded, since the tool is now ported to Python 3.10.
+* Install tool bug fixed where shelf would not be created in the nice place.
+
 ***July 1st 2023 - Beta 0.1***
 * First release of the tool!
 * Added all basic functionality for checking out, submitting, reverting (changed and unchanged), file syncing (getting latest), and file status visual.
