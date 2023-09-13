@@ -7,7 +7,7 @@ Beta version 0.1
 1. In the '**P4Maya for Maya202X**' folder, there should be 2 folders: '**TOOl**' and '**P4**'. One of these is the tool, and the other is the [Official P4Python API from Helix Core](https://www.perforce.com/manuals/p4python/Content/P4Python/Home-p4python.html).
 2. Put contents of the '**P4**' folder (the '**P4.py**' and '**P4API.py**' files) into the ***Maya Python site-extensions folder***, found at: 
 ```
-Maya2023 Install Location (usually Program Files/Autodesk/Maya2023) / Python / Lib / site-packages
+Maya2023 Install Location (usually Program Files/Autodesk/Maya202X) / Python / Lib / site-packages
 ```
 3. Put contents of the '**TOOL**' folder ('**P4Maya**' folder and '**userSetup.py**' file) into the ***Maya scripts folder***, found at:
 ```
